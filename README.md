@@ -1,4 +1,4 @@
-**Schemas:**
+**Database Schemas:**
 
 __Movies Schema Design:__
 
